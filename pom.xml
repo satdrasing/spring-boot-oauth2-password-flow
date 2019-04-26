@@ -12,7 +12,7 @@
 	<artifactId>spring-boot-oauth2-password-flow</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-oauth2-password-flow</name>
-	<description>Oauth2 spring boot password flow</description>
+	<description>Securing REST API with Spring Security OAuth2 password flow</description>
 
 	<properties>
 		<java.version>11</java.version>
